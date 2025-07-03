@@ -31,8 +31,6 @@ With 3+ years of experience, I specialize in Vue.js and Nuxt, and I'm currently 
 
 ## 📊 GitHub Stats
 
-![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelAdedotun&show_icons=true&theme=radical&hide_title=true&count_private=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=MichaelAdedotun&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAdedotun&layout=compact&theme=radical&hide_progress=false)
