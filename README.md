@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm Michael.
 
-Frontend Developer | Vue.js • Nuxt • Tailwind CSS • JavaScript
+Frontend Developer | Vue.js • Nuxt • Tailwind CSS • JavaScript • TypeScript
 
 I'm a passionate frontend developer focused on building clean, responsive, and accessible web experiences.  
 With 3+ years of experience, I specialize in Vue.js and Nuxt, and I'm currently learning React to expand my skillset.
