@@ -22,7 +22,7 @@ With 3+ years of experience, I specialize in Vue.js and Nuxt, and I'm currently 
 ---
 
 ## 🔍 What I’m Currently Doing
-- 🌱 Learning React & Next.js
+- 🌱 Looking deep into Nuxt.js technology
 - 🚀 Working on a few freelance projects
 - 🧪 Exploring frontend testing tools (Vitest, Cypress)
 - ✍️ Documenting what I learn as I grow
